@@ -7,6 +7,8 @@ Upload your hex files into your Morningstar Engineering controllers
 3. Click on upload and select the hex file when the select file window pops up.
 4. After selecting the file, the firmware will automatically be uploaded into your device.
 
+More info here: https://www.youtube.com/watch?v=wtvX8Y9LzXo
+
 
 ## Notes
 Does not work with MacOS Catalina
