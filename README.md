@@ -1,6 +1,9 @@
 # Firmware-Uploader
 Upload your hex files into your Morningstar Engineering controllers
 
+# Important
+If you have updated your Midi Controller firmware to v3.7 and above, you need to use this Firmware Updater version.
+
 ## Instructions
 1. Download the Updater as well as the desired firmware (.hex file) from the Morningstar Engineering website.
 2. Connect your Midi controller to your computer and run the firmware uploader.
