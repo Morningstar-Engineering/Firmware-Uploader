@@ -1,4 +1,6 @@
 # Firmware-Uploader
+![image](https://user-images.githubusercontent.com/6988852/156874667-c564eab4-afee-429e-8c98-7d549e138188.png)
+
 Upload your hex files into your Morningstar Engineering controllers
 
 # Important
